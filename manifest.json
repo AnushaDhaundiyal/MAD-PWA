@@ -1,0 +1,28 @@
+{
+    "name": "Universe App",
+    "short_name": "Uni",
+    "start_url": "/Mad6Website3.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#317EFB",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+            "src": "/universe.jfif.72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/universe.jfif.144x144.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/universe.jfif.144x144.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ]
+}
